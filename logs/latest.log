@@ -1,0 +1,58 @@
+[09dic2024 16:22:24.619] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.12, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[09dic2024 16:22:24.626] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 23.0.1 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[09dic2024 16:22:24.774] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[09dic2024 16:22:24.835] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/carra/OneDrive%20-%20Universidad%20Técnica%20Particular%20de%20Loja%20-%20UTPL/Escritorio/Servidor%20Minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[09dic2024 16:22:25.086] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\carra\OneDrive - Universidad Técnica Particular de Loja - UTPL\Escritorio\Servidor Minecraft\libraries\net\minecraftforge\fmlcore\1.20.1-47.3.12\fmlcore-1.20.1-47.3.12.jar is missing mods.toml file
+[09dic2024 16:22:25.094] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\carra\OneDrive - Universidad Técnica Particular de Loja - UTPL\Escritorio\Servidor Minecraft\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.3.12\javafmllanguage-1.20.1-47.3.12.jar is missing mods.toml file
+[09dic2024 16:22:25.101] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\carra\OneDrive - Universidad Técnica Particular de Loja - UTPL\Escritorio\Servidor Minecraft\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.3.12\lowcodelanguage-1.20.1-47.3.12.jar is missing mods.toml file
+[09dic2024 16:22:25.107] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\carra\OneDrive - Universidad Técnica Particular de Loja - UTPL\Escritorio\Servidor Minecraft\libraries\net\minecraftforge\mclanguage\1.20.1-47.3.12\mclanguage-1.20.1-47.3.12.jar is missing mods.toml file
+[09dic2024 16:22:25.210] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[09dic2024 16:22:26.829] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[09dic2024 16:22:33.640] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.12, for MC 1.20.1 with MCP 20230612.114412
+[09dic2024 16:22:33.643] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.12 Initialized
+[09dic2024 16:22:34.556] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[09dic2024 16:22:35.156] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 47.3.12 Target: null
+[09dic2024 16:22:35.201] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09dic2024 16:22:35.762] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/carra/OneDrive%20-%20Universidad%20Técnica%20Particular%20de%20Loja%20-%20UTPL/Escritorio/Servidor%20Minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
+[09dic2024 16:22:35.763] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/carra/OneDrive%20-%20Universidad%20Técnica%20Particular%20de%20Loja%20-%20UTPL/Escritorio/Servidor%20Minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
+[09dic2024 16:22:37.320] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[09dic2024 16:22:37.430] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[09dic2024 16:22:38.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[09dic2024 16:22:38.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[09dic2024 16:22:38.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[09dic2024 16:22:38.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[09dic2024 16:22:38.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[09dic2024 16:22:38.615] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
+[09dic2024 16:22:38.860] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09dic2024 16:22:38.866] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[09dic2024 16:22:38.877] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09dic2024 16:22:38.879] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[09dic2024 16:22:38.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[09dic2024 16:22:41.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[09dic2024 16:22:44.822] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09dic2024 16:22:44.824] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09dic2024 16:22:44.832] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09dic2024 16:22:44.837] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09dic2024 16:22:44.844] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09dic2024 16:22:44.851] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09dic2024 16:22:44.860] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09dic2024 16:22:44.865] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09dic2024 16:22:45.246] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09dic2024 16:22:45.745] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[09dic2024 16:22:46.251] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
+[09dic2024 16:22:46.746] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 25%
+[09dic2024 16:22:47.246] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 74%
+[09dic2024 16:22:47.530] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6285 ms
+[09dic2024 16:22:47.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.622s)! For help, type "help"
+[09dic2024 16:22:47.560] [LanServerPinger #1/WARN] [net.minecraft.client.server.LanServerPinger/]: LanServerPinger: Network is unreachable: sendto
+[09dic2024 16:22:47.568] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[09dic2024 16:35:44.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09dic2024 16:35:44.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09dic2024 16:35:44.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09dic2024 16:35:45.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09dic2024 16:35:46.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09dic2024 16:35:46.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09dic2024 16:35:46.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09dic2024 16:35:46.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09dic2024 16:35:46.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09dic2024 16:35:46.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
